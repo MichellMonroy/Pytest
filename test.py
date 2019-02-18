@@ -1,3 +1,6 @@
+require 'coveralls'
+Coveralls.wear!
+
 def inc(x):
     return x + 1
 
